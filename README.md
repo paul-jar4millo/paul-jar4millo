@@ -12,11 +12,11 @@
 
 ## What I'm doing right now
 
-- **Junior Software Developer @ Hidaive Technology** (remote, since Oct 2025) — building
+- **Junior Software Developer @ Hidaive Technology** (remote, since Oct 2025). building
   an ASP.NET Core 8 platform for physical access-control turnstiles with
   payment handling: IoT telemetry from field devices, cash reconciliation, collection routes,
   service orders, invoicing, and six segmented user roles resolved through a custom scope layer.
-- **B.Eng. in Computer Science**, Instituto Tecnológico de Ciudad Guzmán (TecNM) —
+- **B.Eng. in Computer Science**, Instituto Tecnológico de Ciudad Guzmán (TecNM).
   coursework and professional residency complete **December 2026**.
 - **Running a single-node Proxmox VE homelab** as code: DNS, cameras, reverse proxy and remote
   access, all in unprivileged LXC. It's where I learned that I like infrastructure as much as
@@ -58,9 +58,8 @@
 
 ### [Proxmox-Homelab](https://github.com/paul-jar4millo/Proxmox-Homelab)
 
-Single-node Proxmox VE homelab as code — DNS, cameras, reverse proxy and remote access, all in
-unprivileged LXC. Documented the way I'd want to find it at 2 a.m.: what each container does,
-why it's configured that way, and how to bring it back from a backup.
+Single-node Proxmox VE homelab as code: DNS, cameras, reverse proxy and remote access, all in
+unprivileged LXC: what each container does, why it's configured that way, and how to bring it back from a backup.
 
 `Proxmox VE` · `LXC` · `Linux` · `Networking` · `Reverse proxy`
 
