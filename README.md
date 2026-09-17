@@ -46,8 +46,8 @@
 
 | Area | What I actually use it for |
 | --- | --- |
-| **Backend** | ASP.NET Core MVC, EF Core, SQL Server — role-scoped business systems in production |
-| **Frontend** | TypeScript, Tailwind CSS v4 — server-rendered UIs, no framework theatre |
+| **Backend** | ASP.NET Core MVC, EF Core, SQL Server  |
+| **Frontend** | TypeScript, Tailwind CSS v4 |
 | **Infrastructure** | Proxmox VE, unprivileged LXC, Linux administration, reverse proxies, DNS |
 | **Networking** | VLAN-aware setups, VPN/tunnels, remote access without exposing the world to my LAN |
 | **Automation** | Python/JS data migrations, shell scripting, Git-tracked configuration |
